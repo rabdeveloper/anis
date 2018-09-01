@@ -1,0 +1,7 @@
+<template>
+<div>
+
+<div class="contact-form w-form"><form id="email-form-2" name="email-form-2" data-name="Email Form 2" class="contact-form w-clearfix"><h2 class="page-title home">Contact us</h2> <p class="paragraph-footer">Don’t hesitate to contact with us for Immediate &amp; quick customer support.<br></p><input type="text" maxlength="256" name="contact-name" data-name="Contact Name" placeholder="Full Name" id="contact-name" required="required" class="contact-text w-input"><input type="email" maxlength="256" name="contact-email" data-name="Contact Email" placeholder="Email Address" id="contact-email" required="required" class="contact-text contact-col-1 w-input"><input type="text" maxlength="256" name="contact-number" data-name="Contact Number" placeholder="Phone Number" id="contact-number" required="required" class="contact-text contact-col-2 w-input"><input type="text" maxlength="256" name="contact-suject" data-name="Contact Suject" placeholder="Subject" id="contact-suject" required="required" class="contact-text w-input"><textarea id="contact-message" name="contact-message" placeholder="Enter you message here" maxlength="5000" data-name="Contact Message" required="required" class="contact-text w-input"></textarea><input type="submit" value="Send" data-wait="Please wait..." class="btn-submit-footer w-button"></form> <div class="w-form-done"><div>Thank you! Your submission has been received!</div></div> <div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div>
+
+</div>
+</template>
